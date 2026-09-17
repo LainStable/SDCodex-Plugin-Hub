@@ -7,36 +7,7 @@
     "name": "SDCodex Core",
     "description": "The core SDCodex application. Increment this version every time core code is pushed so installs can notify about updates.",
     "repository": "https://github.com/LainStable/SDCodex",
-    "version": "1.0.11"
+    "version": "1.0.12"
   },
-  "plugins": [
-    {
-      "id": "comfy-caption",
-      "name": "ComfyUI Captioning",
-      "description": "Auto-captioning with LLMs/JoyCaption and ComfyUI custom workflow nodes. Captioning GGUF models can be downloaded from HuggingFace via the Caption Models settings page.",
-      "repository": "https://github.com/DeeplabSystems/SDCodex-ComfyCaption",
-      "version": "0.0.0"
-    },
-    {
-      "id": "gallery",
-      "name": "SDCodex Gallery",
-      "description": "Disk-backed media gallery built into the SD Codex header. Scans folders directly, reads captions/.txt sidecars, SD prompts and ComfyUI workflows from image metadata, and downloads workflows as JSON.",
-      "repository": "https://github.com/DeeplabSystems/SDCodex-Gallery",
-      "version": "0.0.0"
-    },
-    {
-      "id": "gallery-dl",
-      "name": "GalleryDL & Tools",
-      "description": "Background gallery-dl and yt-dlp task management, quick downloads, kiosks, OAuth configuration, and a persistent activity log.",
-      "repository": "https://github.com/DeeplabSystems/SDCodex-GalleryDL",
-      "version": "0.0.0"
-    },
-    {
-      "id": "rembg",
-      "name": "RemBG Background Tools",
-      "description": "High-precision background removal, replacement, and batch processing powered by BiRefNet.",
-      "repository": "https://github.com/DeeplabSystems/SDCodex-RemBG",
-      "version": "0.0.0"
-    }
-  ]
+  "plugins": []
 }

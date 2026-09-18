@@ -7,7 +7,7 @@
     "name": "SDCodex Core",
     "description": "The core SDCodex application. Increment this version every time core code is pushed so installs can notify about updates.",
     "repository": "https://github.com/LainStable/SDCodex",
-    "version": "1.0.29"
+    "version": "1.0.30"
   },
   "plugins": [
     {

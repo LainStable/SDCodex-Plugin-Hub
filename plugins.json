@@ -15,7 +15,7 @@
       "name": "GalleryDL & Tools",
       "description": "Background gallery-dl and yt-dlp task management, quick downloads, kiosks, OAuth configuration, and a persistent activity log.",
       "repository": "https://github.com/LainStable/SDCodex-GalleryDL",
-      "version": "0.1.3"
+      "version": "0.1.4"
     }
   ]
 }

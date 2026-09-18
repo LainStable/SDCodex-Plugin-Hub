@@ -7,7 +7,15 @@
     "name": "SDCodex Core",
     "description": "The core SDCodex application. Increment this version every time core code is pushed so installs can notify about updates.",
     "repository": "https://github.com/LainStable/SDCodex",
-    "version": "1.0.18"
+    "version": "1.0.19"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "id": "gallery-dl",
+      "name": "GalleryDL & Tools",
+      "description": "Background gallery-dl and yt-dlp task management, quick downloads, kiosks, OAuth configuration, and a persistent activity log.",
+      "repository": "https://github.com/LainStable/SDCodex-GalleryDL",
+      "version": "0.1.0"
+    }
+  ]
 }

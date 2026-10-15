@@ -7,7 +7,7 @@
     "name": "SDCodex Core",
     "description": "The core SDCodex application. Increment this version every time core code is pushed so installs can notify about updates.",
     "repository": "https://github.com/LainStable/SDCodex",
-    "version": "1.0.31"
+    "version": "1.0.32"
   },
   "plugins": [
     {
@@ -22,7 +22,7 @@
       "name": "GalleryDL & Tools",
       "description": "Background gallery-dl and yt-dlp task management, quick downloads, kiosks, OAuth configuration, and a persistent activity log.",
       "repository": "https://github.com/LainStable/SDCodex-GalleryDL",
-      "version": "0.1.4"
+      "version": "0.1.5"
     },
     {
       "id": "rembg",
@@ -35,7 +35,7 @@
       "id": "comfy-caption",
       "name": "ComfyUI Captioning",
       "description": "Auto-captioning with LLMs/JoyCaption and ComfyUI custom workflow nodes. Download GGUF captioning models (Qwen3-VL-8B) from the Caption Models settings page.",
-      "repository": "https://github.com/DeeplabSystems/SDCodex-ComfyCaption",
+      "repository": "https://github.com/LainStable/SDCodex-ComfyCaption",
       "version": "2.4.0"
     }
   ]

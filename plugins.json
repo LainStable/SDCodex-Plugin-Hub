@@ -11,11 +11,32 @@
   },
   "plugins": [
     {
+      "id": "gallery",
+      "name": "SDCodex Gallery",
+      "description": "Disk-backed media gallery and workflow inspector.",
+      "repository": "https://github.com/LainStable/SDCodex-Gallery",
+      "version": "2.0.0"
+    },
+    {
       "id": "gallery-dl",
       "name": "GalleryDL & Tools",
       "description": "Background gallery-dl and yt-dlp task management, quick downloads, kiosks, OAuth configuration, and a persistent activity log.",
       "repository": "https://github.com/LainStable/SDCodex-GalleryDL",
       "version": "0.1.4"
+    },
+    {
+      "id": "rembg",
+      "name": "RemBG Background Tools",
+      "description": "High-precision background removal, replacement, and batch processing powered by BiRefNet & RemBG.",
+      "repository": "https://github.com/LainStable/SDCodex-RemBG",
+      "version": "1.8.0"
+    },
+    {
+      "id": "comfy-caption",
+      "name": "ComfyUI Captioning",
+      "description": "Auto-captioning with LLMs/JoyCaption and ComfyUI custom workflow nodes. Download GGUF captioning models (Qwen3-VL-8B) from the Caption Models settings page.",
+      "repository": "https://github.com/DeeplabSystems/SDCodex-ComfyCaption",
+      "version": "2.4.0"
     }
   ]
 }

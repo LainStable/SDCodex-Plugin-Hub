@@ -29,7 +29,7 @@
       "name": "rembg",
       "description": "High-precision background removal, replacement, and batch processing powered by BiRefNet & RemBG.",
       "repository": "https://github.com/LainStable/SDCodex-RemBG",
-      "version": "1.8.2"
+      "version": "1.8.3"
     },
     {
       "id": "comfy-caption",

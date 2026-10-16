@@ -15,7 +15,7 @@
       "name": "gallery",
       "description": "Disk-backed media gallery and workflow inspector.",
       "repository": "https://github.com/LainStable/SDCodex-Gallery",
-      "version": "2.0.0"
+      "version": "2.0.1"
     },
     {
       "id": "gallery-dl",
@@ -29,14 +29,14 @@
       "name": "rembg",
       "description": "High-precision background removal, replacement, and batch processing powered by BiRefNet & RemBG.",
       "repository": "https://github.com/LainStable/SDCodex-RemBG",
-      "version": "1.8.0"
+      "version": "1.8.1"
     },
     {
       "id": "comfy-caption",
       "name": "caption",
       "description": "Auto-captioning with LLMs/JoyCaption and ComfyUI custom workflow nodes. Download GGUF captioning models (Qwen3-VL-8B) from the Caption Models settings page.",
       "repository": "https://github.com/LainStable/SDCodex-ComfyCaption",
-      "version": "2.4.0"
+      "version": "2.4.1"
     }
   ]
 }

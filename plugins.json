@@ -15,7 +15,7 @@
       "name": "gallery",
       "description": "Disk-backed media gallery and workflow inspector.",
       "repository": "https://github.com/LainStable/SDCodex-Gallery",
-      "version": "2.0.3"
+      "version": "2.0.4"
     },
     {
       "id": "gallery-dl",
@@ -36,7 +36,7 @@
       "name": "caption",
       "description": "Auto-captioning with LLMs/JoyCaption and ComfyUI custom workflow nodes. Download GGUF captioning models (Qwen3-VL-8B) from the Caption Models settings page.",
       "repository": "https://github.com/LainStable/SDCodex-ComfyCaption",
-      "version": "2.4.3"
+      "version": "2.4.4"
     }
   ]
 }

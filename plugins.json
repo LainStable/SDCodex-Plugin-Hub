@@ -7,7 +7,7 @@
     "name": "SDCodex Core",
     "description": "The core SDCodex application. Increment this version every time core code is pushed so installs can notify about updates.",
     "repository": "https://github.com/LainStable/SDCodex",
-    "version": "1.0.48"
+    "version": "1.0.49"
   },
   "plugins": [
     {
@@ -15,21 +15,21 @@
       "name": "gallery",
       "description": "Disk-backed media gallery and workflow inspector.",
       "repository": "https://github.com/LainStable/SDCodex-Gallery",
-      "version": "2.0.6"
+      "version": "2.0.7"
     },
     {
       "id": "gallery-dl",
       "name": "gallerydl",
       "description": "Background gallery-dl and yt-dlp task management, quick downloads, kiosks, OAuth configuration, and a persistent activity log.",
       "repository": "https://github.com/LainStable/SDCodex-GalleryDL",
-      "version": "0.2.1"
+      "version": "0.2.2"
     },
     {
       "id": "rembg",
       "name": "rembg",
       "description": "High-precision background removal, replacement, and batch processing powered by BiRefNet & RemBG.",
       "repository": "https://github.com/LainStable/SDCodex-RemBG",
-      "version": "1.8.3"
+      "version": "1.8.4"
     },
     {
       "id": "comfy-caption",

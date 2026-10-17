@@ -37,6 +37,13 @@
       "description": "Auto-captioning with LLMs/JoyCaption and ComfyUI custom workflow nodes. Download GGUF captioning models (Qwen3-VL-8B) from the Caption Models settings page.",
       "repository": "https://github.com/LainStable/SDCodex-ComfyCaption",
       "version": "2.4.5"
+    },
+    {
+      "id": "ai-renamer",
+      "name": "AI Renamer",
+      "description": "Stage image and video files, preview AI-generated names, then safely apply or undo batch renames.",
+      "repository": "https://github.com/LainStable/SDCodex-AiRenamer",
+      "version": "1.0.0"
     }
   ]
 }

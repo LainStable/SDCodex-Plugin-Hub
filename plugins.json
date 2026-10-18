@@ -7,7 +7,7 @@
     "name": "SDCodex Core",
     "description": "The core SDCodex application. Increment this version every time core code is pushed so installs can notify about updates.",
     "repository": "https://github.com/LainStable/SDCodex",
-    "version": "1.0.64"
+    "version": "1.0.65"
   },
   "plugins": [
     {
@@ -36,7 +36,7 @@
       "name": "ComfyCaption",
       "description": "Auto-captioning with LLMs/JoyCaption and ComfyUI custom workflow nodes. Download GGUF captioning models (Qwen3-VL-8B) from the Caption Models settings page.",
       "repository": "https://github.com/LainStable/SDCodex-ComfyCaption",
-      "version": "2.4.7"
+      "version": "2.4.8"
     },
     {
       "id": "ai-renamer",

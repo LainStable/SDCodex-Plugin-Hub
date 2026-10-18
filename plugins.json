@@ -36,7 +36,7 @@
       "name": "ComfyCaption",
       "description": "Auto-captioning with LLMs/JoyCaption and ComfyUI custom workflow nodes. Download GGUF captioning models (Qwen3-VL-8B) from the Caption Models settings page.",
       "repository": "https://github.com/LainStable/SDCodex-ComfyCaption",
-      "version": "2.5.2"
+      "version": "2.5.3"
     },
     {
       "id": "ai-renamer",

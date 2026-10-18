@@ -43,7 +43,7 @@
       "name": "AI Renamer",
       "description": "Stage image and video files, preview AI-generated names, then safely apply or undo batch renames.",
       "repository": "https://github.com/LainStable/SDCodex-AiRenamer",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }

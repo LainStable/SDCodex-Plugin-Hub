@@ -15,7 +15,7 @@
       "name": "Gallery",
       "description": "Disk-backed media gallery and workflow inspector.",
       "repository": "https://github.com/LainStable/SDCodex-Gallery",
-      "version": "2.0.9"
+      "version": "2.0.10"
     },
     {
       "id": "gallery-dl",

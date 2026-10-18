@@ -7,7 +7,7 @@
     "name": "SDCodex Core",
     "description": "The core SDCodex application. Increment this version every time core code is pushed so installs can notify about updates.",
     "repository": "https://github.com/LainStable/SDCodex",
-    "version": "1.0.69"
+    "version": "1.0.70"
   },
   "plugins": [
     {
@@ -15,35 +15,35 @@
       "name": "Gallery",
       "description": "Disk-backed media gallery and workflow inspector.",
       "repository": "https://github.com/LainStable/SDCodex-Gallery",
-      "version": "2.0.11"
+      "version": "2.0.12"
     },
     {
       "id": "gallery-dl",
       "name": "GalleryDL",
       "description": "Background gallery-dl and yt-dlp task management, quick downloads, kiosks, OAuth configuration, and a persistent activity log.",
       "repository": "https://github.com/LainStable/SDCodex-GalleryDL",
-      "version": "0.2.8"
+      "version": "0.2.9"
     },
     {
       "id": "rembg",
       "name": "RemBG",
       "description": "High-precision background removal, replacement, and batch processing powered by BiRefNet & RemBG.",
       "repository": "https://github.com/LainStable/SDCodex-RemBG",
-      "version": "1.8.6"
+      "version": "1.8.7"
     },
     {
       "id": "comfy-caption",
       "name": "ComfyCaption",
       "description": "Auto-captioning with LLMs/JoyCaption and ComfyUI custom workflow nodes. Download GGUF captioning models (Qwen3-VL-8B) from the Caption Models settings page.",
       "repository": "https://github.com/LainStable/SDCodex-ComfyCaption",
-      "version": "2.5.1"
+      "version": "2.5.2"
     },
     {
       "id": "ai-renamer",
       "name": "AI Renamer",
       "description": "Stage image and video files, preview AI-generated names, then safely apply or undo batch renames.",
       "repository": "https://github.com/LainStable/SDCodex-AiRenamer",
-      "version": "1.2.1"
+      "version": "1.2.2"
     }
   ]
 }

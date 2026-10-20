@@ -3,7 +3,7 @@
     "name": "SDCodex Core",
     "description": "The core SDCodex application. Increment this version every time core code is pushed so installs can notify about updates.",
     "uri": "https://github.com/LainStable/SDCodex",
-    "version": "1.0.85",
+    "version": "1.0.86",
     "mcp": false,
     "mcp_enabled": false,
     "mcp_token": ""

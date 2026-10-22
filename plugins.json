@@ -3,7 +3,7 @@
     "name": "SDCodex Core",
     "description": "The core SDCodex application. Increment this version every time core code is pushed so installs can notify about updates.",
     "uri": "https://github.com/LainStable/SDCodex",
-    "version": "1.0.89",
+    "version": "1.0.90",
     "mcp": false,
     "mcp_enabled": false,
     "mcp_token": ""
@@ -12,22 +12,22 @@
     {
       "id": "gallery",
       "name": "Gallery",
-      "version": "2.0.18"
+      "version": "2.0.19"
     },
     {
       "id": "gallery-dl",
       "name": "GalleryDL",
-      "version": "0.2.14"
+      "version": "0.2.15"
     },
     {
       "id": "rembg",
       "name": "RemBG",
-      "version": "1.8.9"
+      "version": "1.8.10"
     },
     {
       "id": "comfy-caption",
       "name": "ComfyCaption",
-      "version": "2.5.6"
+      "version": "2.5.7"
     },
     {
       "id": "ai-renamer",

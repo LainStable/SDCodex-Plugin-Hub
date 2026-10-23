@@ -2,7 +2,7 @@
   "core": {
     "name": "SDCodex Core",
     "uri": "https://github.com/LainStable/SDCodex",
-    "version": "2.6.0",
+    "version": "2.7.0",
     "mcp": false,
     "mcp_enabled": false,
     "mcp_token": ""
@@ -16,22 +16,22 @@
     {
       "id": "gallery-dl",
       "name": "GalleryDL",
-      "version": "1.2.16"
+      "version": "1.3.0"
     },
     {
       "id": "rembg",
       "name": "RemBG",
-      "version": "1.9.1"
+      "version": "1.10.0"
     },
     {
       "id": "comfy-caption",
       "name": "ComfyCaption",
-      "version": "2.6.1"
+      "version": "2.7.0"
     },
     {
       "id": "ai-renamer",
       "name": "AI Renamer",
-      "version": "1.3.1"
+      "version": "1.4.0"
     }
   ]
 }

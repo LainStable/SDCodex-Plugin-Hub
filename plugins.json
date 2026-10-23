@@ -2,7 +2,7 @@
   "core": {
     "name": "SDCodex Core",
     "uri": "https://github.com/LainStable/SDCodex",
-    "version": "2.8.11",
+    "version": "2.8.12",
     "mcp": false,
     "mcp_enabled": false,
     "mcp_token": ""

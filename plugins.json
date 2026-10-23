@@ -11,27 +11,37 @@
     {
       "id": "gallery",
       "name": "Gallery",
-      "version": "2.3.1"
+      "version": "2.3.1",
+      "description": "Disk-backed media gallery and workflow inspector. Scans folders directly, reads captions/.txt sidecars, SD prompts, and ComfyUI workflows from image metadata.",
+      "repository": "https://github.com/LainStable/SDCodex-Gallery"
     },
     {
       "id": "gallery-dl",
       "name": "GalleryDL",
-      "version": "1.5.1"
+      "version": "1.5.1",
+      "description": "Background gallery-dl and yt-dlp task management, quick downloads, kiosks, OAuth configuration, and a persistent activity log.",
+      "repository": "https://github.com/LainStable/SDCodex-GalleryDL"
     },
     {
       "id": "rembg",
       "name": "RemBG",
-      "version": "1.11.1"
+      "version": "1.11.1",
+      "description": "High-precision neural background removal, alpha matting, and batch processing powered by BiRefNet & RemBG.",
+      "repository": "https://github.com/LainStable/SDCodex-RemBG"
     },
     {
       "id": "comfy-caption",
       "name": "ComfyCaption",
-      "version": "2.8.4"
+      "version": "2.8.4",
+      "description": "Auto-captioning with LLMs/JoyCaption and ComfyUI custom workflow nodes. Captioning GGUF models can be downloaded from HuggingFace via the Caption Models settings page.",
+      "repository": "https://github.com/LainStable/SDCodex-ComfyCaption"
     },
     {
       "id": "ai-renamer",
       "name": "AI Renamer",
-      "version": "1.6.2"
+      "version": "1.6.2",
+      "description": "Stage image and video files, preview AI-generated names, then safely apply or undo batch renames.",
+      "repository": "https://github.com/LainStable/SDCodex-AiRenamer"
     },
     {
       "id": "betacaption",

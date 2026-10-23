@@ -2,7 +2,7 @@
   "core": {
     "name": "SDCodex Core",
     "uri": "https://github.com/LainStable/SDCodex",
-    "version": "2.8.34",
+    "version": "2.8.35",
     "mcp": false,
     "mcp_enabled": false,
     "mcp_token": ""
@@ -46,14 +46,14 @@
     {
       "id": "betacaption",
       "name": "Beta Caption",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "description": "ComfyCaption beta channel with the Gallery browser built in (grid, folders and media viewer).",
       "repository": "https://github.com/LainStable/SDCodex-ComfyCaption#beta"
     },
     {
       "id": "betarenamer",
       "name": "Beta Renamer",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "description": "AI Renamer beta channel with the Gallery browser built in (grid, folders and media viewer).",
       "repository": "https://github.com/LainStable/SDCodex-AiRenamer#beta"
     }

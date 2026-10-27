@@ -44,11 +44,11 @@
       "repository": "https://github.com/LainStable/SDCodex-AiRenamer"
     },
     {
-      "id": "beta-gallery",
-      "name": "Beta Gallery",
-      "version": "0.1.0",
+      "id": "beta",
+      "name": "Beta",
+      "version": "0.2.0",
       "description": "Beta channel of the Gallery plugin — the boilerplate for new beta plugins in SDCodex-beta.",
-      "repository": "https://github.com/LainStable/SDCodex-beta#gallery"
+      "repository": "https://github.com/LainStable/SDCodex-beta#beta"
     }
   ]
 }

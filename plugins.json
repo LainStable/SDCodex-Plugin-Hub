@@ -2,7 +2,7 @@
   "core": {
     "name": "SDCodex Core",
     "uri": "https://github.com/LainStable/SDCodex",
-    "version": "2.8.53",
+    "version": "2.8.54",
     "mcp": false,
     "mcp_enabled": false,
     "mcp_token": ""
@@ -25,7 +25,7 @@
     {
       "id": "rembg",
       "name": "RemBG",
-      "version": "1.13.0",
+      "version": "1.14.0",
       "description": "High-precision neural background removal, alpha matting, and batch processing powered by BiRefNet & RemBG.",
       "repository": "https://github.com/LainStable/SDCodex-RemBG"
     },

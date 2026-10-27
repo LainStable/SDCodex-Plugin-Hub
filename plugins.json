@@ -18,7 +18,7 @@
     {
       "id": "gallery-dl",
       "name": "GalleryDL",
-      "version": "1.6.0",
+      "version": "1.6.1",
       "description": "Background gallery-dl and yt-dlp task management, quick downloads, kiosks, OAuth configuration, and a persistent activity log.",
       "repository": "https://github.com/LainStable/SDCodex-GalleryDL"
     },
@@ -53,14 +53,14 @@
     {
       "id": "betacaption",
       "name": "Beta Caption",
-      "version": "0.3.1",
+      "version": "0.4.0",
       "description": "ComfyCaption beta channel: the boilerplate browser across two thirds, a permanent image panel (picture, details, caption editor) in the last third, and the media root from the environment.",
       "repository": "https://github.com/LainStable/SDCodex-beta#caption"
     },
     {
       "id": "betarenamer",
       "name": "Beta Renamer",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "description": "AI Renamer beta channel: the boilerplate browser across two thirds, the rename options, batch actions and staged files in the last third.",
       "repository": "https://github.com/LainStable/SDCodex-beta#renamer"
     }

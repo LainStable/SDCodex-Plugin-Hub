@@ -42,6 +42,20 @@
       "version": "1.6.2",
       "description": "Stage image and video files, preview AI-generated names, then safely apply or undo batch renames.",
       "repository": "https://github.com/LainStable/SDCodex-AiRenamer"
+    },
+    {
+      "id": "betacaption",
+      "name": "Beta Caption",
+      "version": "0.1.3",
+      "description": "ComfyCaption beta channel with the Gallery browser built in (grid, folders and media viewer).",
+      "repository": "https://github.com/LainStable/SDCodex-beta#caption"
+    },
+    {
+      "id": "betarenamer",
+      "name": "Beta Renamer",
+      "version": "0.1.3",
+      "description": "AI Renamer beta channel with the Gallery browser built in (grid, folders and media viewer).",
+      "repository": "https://github.com/LainStable/SDCodex-beta#renamer"
     }
   ]
 }

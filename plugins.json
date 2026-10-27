@@ -53,8 +53,8 @@
     {
       "id": "betacaption",
       "name": "Beta Caption",
-      "version": "0.2.0",
-      "description": "ComfyCaption beta channel: the browser takes two thirds, the last third is a permanent image panel with the picture, its details and the caption editor.",
+      "version": "0.3.0",
+      "description": "ComfyCaption beta channel: the boilerplate browser across two thirds, a permanent image panel (picture, details, caption editor) in the last third, and the media root from the environment.",
       "repository": "https://github.com/LainStable/SDCodex-beta#caption"
     }
   ]
